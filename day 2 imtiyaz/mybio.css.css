@@ -1,0 +1,14 @@
+#div{
+    border-width: medium;
+    border-style: dashed;
+    border-color: lightseagreen;
+}
+#img{
+    
+    width: 200px;
+    height: 500px;
+    padding: 3px;
+    border-radius: 50%;
+border: 5px solid blueviolet;
+box-shadow: 5px 5px  blue;
+}
