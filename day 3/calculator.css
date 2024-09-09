@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    padding: 10px;
+    border-color: orchid;
+    max-width: 100%;
+    background-color: black;
+}
+.grid-item {
+    background-color: black;
+    border: 1px solid white;
+    
+    font-size: 30px;
+    text-align: center;
+    color: mediumspringgreen;
+    max-width: 100%;
+}
+.button{
+    background-color: aqua;
+    color: orangered;
+    height: 100%;
+    width: 100%;
+    font-size: 30px;
+}
+#display{
+    width: 75%;
+    font-size: 30px;
+}
